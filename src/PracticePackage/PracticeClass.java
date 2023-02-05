@@ -37,6 +37,11 @@ public class PracticeClass {
 	{
 		System.out.println("Method is Dummy");
 	}
+	
+	public void GitPurpose() 
+	{
+		System.out.println("Again dummy method");
+	}
 				    
 	}
 
